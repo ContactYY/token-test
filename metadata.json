@@ -2,7 +2,7 @@
     "name": "Test",
     "symbol": "TEST",
     "description": "Test Description",
-    "image": "https://github.com/ContactYY/token-test/blob/69ad9dd5194cc4dc07d4c38a5f2d6d3baa14ce91/pnut.jpeg",
+    "image": "https://raw.githubusercontent.com/ContactYY/token-test/refs/heads/main/pnut.png",
     "attributes": [
       {
         "trait_type": "Item",
