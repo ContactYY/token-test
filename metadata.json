@@ -3,10 +3,5 @@
     "symbol": "TEST",
     "description": "Test Description",
     "image": "https://raw.githubusercontent.com/ContactYY/token-test/refs/heads/main/pnut.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+    "website": "https://www.google.com"
   }
